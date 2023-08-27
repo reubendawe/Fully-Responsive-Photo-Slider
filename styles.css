@@ -55,18 +55,15 @@ button {
     outline: none;
     cursor: pointer;
 }
-
 .dot-container button {
     height: 13px;
     width: 13px;
     border-radius: 50%;
     border: 3px solid #4b4754;
 }
-
 .dot-container button:nth-child(1) {
     background-color: #4b4754;
 }
-
 #prev, #next {
     height: 40px;
     width: 40px;
@@ -81,11 +78,9 @@ button {
     font-size: 18px;
     font-weight: bolder;
 }
-
 #prev {
     left: 15px;
 }
-
 #next {
     right: 15px;
 }
